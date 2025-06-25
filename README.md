@@ -26,14 +26,15 @@ This repository contains the security audit report for **<https://github.com/znt
    sudo apt install pandoc texlive-latex-extra texlive-fonts-recommended
    ```
 2. Generate from Markdown:
+   
    ```bash
-   pandoc report.md -o report.pdf \
-  --template=eisvogel \
-  --pdf-engine=xelatex \
-  --listings
-  ```
+   pandoc report.md -o report.pdf --template=eisvogel --pdf-engine=xelatex --listings 
+   ```
+---
+
 📄 Template Used
 <https://github.com/Wandmalfarbe/pandoc-latex-template>
 
 📅 Audit Period
 June 2025
+
