@@ -1,6 +1,6 @@
 # Protocol Audit Report
 
-![ZNTB Logo](./logo.pdf) <!-- or logo.png if you prefer -->
+![ZNTB Logo](./logo.png) <!-- or logo.png if you prefer -->
 
 ## 📝 Overview
 This repository contains the security audit report for **<https://github.com/zntb/3-passwordstore-audit>**, conducted by [zntb](https://github.com/zntb).
